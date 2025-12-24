@@ -192,7 +192,7 @@
       "parameters": {
         "operation": "xlsx",
         "options": {
-          "fileName": "Zammad_Users.xslx"
+          "fileName": "Zammad_Users.xlsx"
         }
       },
       "id": "f1160af5-fcee-421d-9ede-b6f56ac0ce8d",
